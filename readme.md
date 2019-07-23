@@ -15,7 +15,7 @@ Questions, requests for customization or development services - support@dev-labs
 ## Workflow activities
 Workflow activities provide the ability to use predictive models in ServiceNow workflows for any business/ITIL application. zModel activities can be found on *Packs* tab in Workflow editor:
 <p align="center">
-<img src="assets/11.png" style="width:40%;">
+<img src="assets/11.png">
 </p>
 
 #### How to use zModel workflow activities
@@ -60,7 +60,7 @@ workflow.scratchpad.input_data = "[0,25,86,12,73,72,0,1]";
 Model output stored as an object in *Score* activity variable. If you have multiple models in the workflow then multiple *Score* objects will be available.
 
 <p align="center">
-<img src="assets/7.png" style="width:30%;">
+<img src="assets/7.png">
 </p>
 
 You can read the output *Score* object using the following options:
